@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+.nav {
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    box-shadow: 7px 7px 10px black;
+}
+.head {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 5px;
+}
+.links {
+    text-decoration: none;
+}
+.navD {
+    display: flex;
+    justify-content: space-between;
+}
